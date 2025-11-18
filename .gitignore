@@ -1,0 +1,14 @@
+# Root .gitignore
+/frontend/node_modules
+/backend/node_modules
+
+/frontend/.env
+/backend/.env
+
+.env
+node_modules
+dist
+build
+.env.local
+.env.development
+.env.production
